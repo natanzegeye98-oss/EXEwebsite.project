@@ -1,0 +1,99 @@
+ <!DOCTYPE html> 
+<html>
+<head>
+  <title>Exe Burger Shop</title>
+</head>
+<body style="
+  background-color: white; 
+  background-image:url('https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80'); 
+  background-size:cover; 
+  background-position:center; 
+  background-attachment:fixed; 
+  margin:0; 
+  padding:0;">
+
+  <h1>Welcome to Exe Burger shop 😎</h1>
+
+  <h4>
+    “Stacked With Flavor, Served With Fun! 😋”<br>
+    <br>
+    “Burgers So Good, They’re Almost Illegal 👀”<br>
+    <br>
+    “Exe-cute Your Hunger!” 🍟🥤<br>
+    <br>
+    “One Bite, Endless Cravings” ♾️<br>
+    <br>
+    “Burgers Built Different” 🍔⚡🔥<br>
+    <br>
+    <p>“Bite Big. Live Bold.”</p>
+  </h4>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9OkF8a9gL_XZLmzwDQXKTP1gD-EVjsePhC1DUt7KP68nQQjH9UYZxWfVpvVtalGtyWEDi&s" alt="Delicious Burger">
+
+  <h2>Our Story</h2>
+
+  <p>
+    Exe Burger Shop makes Your Day Even Better, freshly made for our lovely customers 💖😊.<br>
+    Different Flavors and Inspiring Menu's 😋🍴.<br>
+    Make Sure to Grab Yourself a flavor and Yummy 😋 Burger From Exe Burger.<br>
+    And We Are Very Delight Due to Our customer Visiting Our Website And Considering a Purchase 🛒.<br>
+    We are very Thankful We have such Delightful customers, Thank You Very Much For visiting Our Website.
+  </p>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX7WNI3UtKp-d-mG9inbnk0-si71jUZfOIL_TvCmdmsqP3mBv1q2_2jcc&s" alt="Delicious Burger">
+
+  <h4>🍔 Our Menu</h4>
+  <ul>
+    <li>Classic Exe Burger – Juicy beef patty, cheddar cheese, lettuce, tomato, and our signature sauce.</li>
+    <li>Spicy Inferno – Double beef, jalapeños, pepper jack cheese, and hot chili sauce.</li>
+    <li>Veggie Delight – Grilled veggie patty with fresh greens, avocado, and garlic aioli.</li>
+    <li>Exe Special – Our chef’s secret creation, packed with surprise flavors.</li>
+  </ul>
+
+  <h2>Prices of Our Delicious Burgers 😋</h2>
+  <ul>
+    <li>Classic Burger = $2.50</li>
+    <li>Extra Cheese Patty Burger = $5.50</li>
+    <li>Smoky Exe Burger = $9.99 (Special)</li>
+    <li>Bacon Cheeseburger = $9.49</li>
+    <li>Spicy Inferno = 4.20</li>
+    <li>Veggie Delight = 3.50</li>
+  </ul>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-MDFAiAiVOBTJdTQunGMyY8o1-cv_SxBudq7_Erto__xk1hqgw4ny_o&s" alt="Delicious Burger" class="burger">
+
+  <h2>🙌 Why Choose Us</h2>
+  <ul>
+    <li>Fresh ingredients, never frozen</li>
+    <li>Creative burger recipes you won’t find anywhere else</li>
+    <li>Friendly service with a modern twist</li>
+    <li>A place where food meets fun</li>
+  </ul>
+
+  <h1>ORDER HERE 🛒➡️🍔</h1>    
+  <a href="https://deliveraddis.com/">📦Order📦</a>
+
+  <h1>Contact us! Get in touch with us using these options ✉️📞</h1>
+  <ul>
+    <li>Gmail: natanzegeye98@gmail.com</li>
+    <li>Phone: 0949780809</li>
+  </ul>
+
+  <h1>Promotions and Deals 🏷️💰🛒</h1>
+  <h3>
+    This was made with the help 🙋 of many people including Yeabsira Lealem, Amanuel Zerihun, and of course the Creator ✍️ Natan Zegeye.<br>
+    And this all was created for 2 reasons:<br>
+    First: To give people a choice of food and enjoyment 😄😋<br> 
+    Second: The creator ✍️ of this Website wanting to create a web learning 📚 chance for (him/Natan Zegeye) in a scholarship way of learning.<br>
+    He is still looking for chances in many spots 📍 and websites 🌐, and at all times we are accepting offers from universities or people who want to work with us.</h3>   
+  <h1>Premium</h1>
+  <p>Many things (This is Available on Premuim This is not the only feature in the Premium there are Things Such Us)<br>
+  <ul>
+  <li>10%-20%</li>
+  <li>Early acces to limited and new Products</li>
+  <li>Faster Delivoury can Go Up To Saving 5-10 minutes
+  <li>customization option will allow you to add diffrent toppings</li>
+  <li>Members-Only Content behind the scenes videos of burger preparation
+  </ul>
+</body>
+</html>
